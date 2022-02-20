@@ -11,6 +11,7 @@ Based on CmlLib (https://github.com/CmlLib/CmlLib.Core)
 <li>Windows 11 or Windows 10 version 1809+.</li>
 <li>.net core 3.1.</li>
 <li>At least 4GB of RAM.</li>
+<br>
 # Installation
 Goto https://github.com/Chaniru22/Emerald-Launcher-Public/releases/ and download and run the setup for your PC (x86,x64)
 <br>
