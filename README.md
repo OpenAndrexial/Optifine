@@ -1,5 +1,5 @@
 # Emerald Launcher
-A custom noob wpf minecraft launcher written with C#
+A custom noob wpf Minecraft launcher written with C#
 <br>
 The idea of the creation by https://github.com/TurtlzYT
 <br>
@@ -14,4 +14,4 @@ Based on CmlLib (https://github.com/CmlLib/CmlLib.Core)
 <h1>Installation </h1>
 Goto https://github.com/Chaniru22/Emerald-Launcher-Public/releases/ and download and run the setup for your PC (x86,x64)
 <br>
-<b>Note this is in highly development!</b>
+<b>Note: This is in highly development!</b>
