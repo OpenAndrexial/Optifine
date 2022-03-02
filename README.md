@@ -7,6 +7,16 @@ Based on CmlLib (https://github.com/CmlLib/CmlLib.Core)
 <br>
 <br>
 ![image](https://user-images.githubusercontent.com/82730163/154849329-22242e68-29c7-4068-b7c1-0e9a843919a2.png)
+# Features
+- [x] Microsoft Login
+- [x] Mojang Login
+- [x] Offline Login
+- [x] Discord RPC
+- [x] Download Minecraft
+- [x] Install/Launch Minecraft
+- [ ] Forge
+- [x] Fabric
+- [ ] Optifine
 # System Requirements
 <li>Windows 11 or Windows 10 version 1809+.</li>
 <li>.net core 3.1.</li>
