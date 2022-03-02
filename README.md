@@ -12,8 +12,8 @@ Based on CmlLib (https://github.com/CmlLib/CmlLib.Core)
 - [x] Mojang Login
 - [x] Offline Login
 - [x] Discord RPC
-- [x] Download Minecraft
-- [x] Install/Launch Minecraft
+- [x] Download/Install Minecraft any versions including snapshots
+- [x] Launch Minecraft
 - [ ] Forge
 - [x] Fabric (Still in development)
 - [x] Optifine (Still in development)
