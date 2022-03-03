@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/82730163/156550704-ca06aaef-8f5c-461d-b434-055a0b97d495.png" width="40" /> Emerald Launcher
+# Emerald Launcher
 A custom noob wpf Minecraft launcher written with C#!
 
 <br>
