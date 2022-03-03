@@ -7,7 +7,8 @@ The idea of the creation by https://github.com/TurtlzYT
 Based on CmlLib (https://github.com/CmlLib/CmlLib.Core)
 <br>
 <br>
-![image](https://user-images.githubusercontent.com/82730163/154849329-22242e68-29c7-4068-b7c1-0e9a843919a2.png)
+<img src="https://user-images.githubusercontent.com/82730163/154849329-22242e68-29c7-4068-b7c1-0e9a843919a2.png" />
+
 # Features
 - [x] Microsoft Login
 - [x] Mojang Login
