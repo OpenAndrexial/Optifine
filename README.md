@@ -17,8 +17,8 @@ Based on CmlLib (https://github.com/CmlLib/CmlLib.Core)
 - [x] Download/Install Minecraft any versions including snapshots
 - [x] Launch Minecraft
 - [ ] Forge
-- [x] Fabric (Still in development)
-- [x] Optifine (Still in development)
+- [x] Fabric
+- [x] Optifine
 # System Requirements
 <li>Windows 11 or Windows 10 version 1809+.</li>
 <li>.net core 3.1.</li>
