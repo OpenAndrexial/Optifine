@@ -8,6 +8,8 @@ Based on CmlLib (https://github.com/CmlLib/CmlLib.Core)
 <br>
 <br>
 <img src="https://user-images.githubusercontent.com/82730163/154849329-22242e68-29c7-4068-b7c1-0e9a843919a2.png" />
+<br>
+The image is from version 3.5
 
 # Features
 - [x] Microsoft Login
