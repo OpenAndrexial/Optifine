@@ -19,8 +19,8 @@ The image is from version 3.5
 - [x] Download/Install Minecraft any versions including snapshots
 - [x] Launch Minecraft
 - [ ] Forge (trying to make)
-- [x] Fabric (needs to check)
-- [x] Optifine (needs to check)
+- [x] Fabric (works but never checked with another pc)
+- [x] Optifine (works but never checked with another pc)
 # System Requirements
 <li>Windows 11 or Windows 10 version 1809+.</li>
 <li>.net core desktop runtime 3.1.</li>
