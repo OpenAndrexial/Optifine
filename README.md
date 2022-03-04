@@ -18,9 +18,9 @@ The image is from version 3.5
 - [x] Discord RPC
 - [x] Download/Install Minecraft any versions including snapshots
 - [x] Launch Minecraft
-- [ ] Forge
-- [x] Fabric
-- [x] Optifine
+- [ ] Forge (trying to make)
+- [x] Fabric (needs to check)
+- [x] Optifine (needs to check)
 # System Requirements
 <li>Windows 11 or Windows 10 version 1809+.</li>
 <li>.net core 3.1.</li>
