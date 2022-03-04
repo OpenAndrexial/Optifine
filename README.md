@@ -25,7 +25,7 @@ The image is from version 3.5
 <li>Windows 11 or Windows 10 version 1809+.</li>
 <li>.net core desktop runtime 3.1.</li>
 <li>At least 4GB of RAM.</li>
-<li>Microsoft Edge Webview 2 runtime (For Microsoft login).</li>
+<li>Microsoft Edge Webview 2 runtime (For Microsoft login). You may have this on windows 11 and newer 10</li>
 <h1>Installation </h1>
 Goto https://github.com/Chaniru22/Emerald-Launcher-Public/releases/ and download and run the setup that matches for your PC🖥 (x86,x64)
 <br>
