@@ -23,8 +23,8 @@ We changed our luancher name to SDLauncher from Emerald Launcher but the release
 - [x] Download/Install Minecraft any versions including snapshots
 - [x] Launch Minecraft
 - [ ] Forge (trying to make)
-- [x] Fabric (works but never checked with another pc)
-- [x] Optifine (works but never checked with another pc)
+- [x] Fabric
+- [x] Optifine
 # System Requirements
 <li>Windows 11 or Windows 10 version 1809+.</li>
 <li>.net core desktop runtime 3.1.</li>
