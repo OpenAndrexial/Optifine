@@ -15,6 +15,7 @@ The image is from version 3.5
 We changed our luancher name to SDLauncher from Emerald Launcher but the release name is still the same.
 
 
+
 # Features
 - [x] Microsoft Login
 - [x] Mojang Login
