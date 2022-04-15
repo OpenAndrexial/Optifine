@@ -18,7 +18,7 @@ We changed our luancher name to SDLauncher from Emerald Launcher but the release
 
 # Features
 - [x] Microsoft Login
-- [x] Mojang Login
+- [ ] Mojang Login (Expired)
 - [x] Offline Login
 - [x] Discord RPC
 - [x] Download/Install Minecraft any versions including snapshots
@@ -27,6 +27,7 @@ We changed our luancher name to SDLauncher from Emerald Launcher but the release
 - [x] Fabric
 - [x] Optifine
 # System Requirements
+<h2>For WPF version)
 <li>Windows 11 or Windows 10 version 1809+.</li>
 <li>.net core desktop runtime 3.1.</li>
 <li>At least 4GB of RAM.</li>
