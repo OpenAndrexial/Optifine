@@ -27,7 +27,7 @@ We changed our luancher name to SDLauncher from Emerald Launcher but the release
 - [x] Fabric
 - [x] Optifine
 # System Requirements
-<h2>For WPF version)
+<h2>For WPF version)</h2>
 <li>Windows 11 or Windows 10 version 1809+.</li>
 <li>.net core desktop runtime 3.1.</li>
 <li>At least 4GB of RAM.</li>
