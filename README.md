@@ -26,7 +26,7 @@ The image is from version 0.3.5-wpf
 - [x] Offline Login
 - [x] Save Accounts
 - [x] View skins
-- [x] View settings as a xml
+- [x] View/edit settings as a xml
 - [ ] Discord RPC (To do)
 - [x] Download/Install Minecraft any versions including snapshots
 - [x] Launch Minecraft
