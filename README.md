@@ -7,9 +7,9 @@ The idea of the creation by https://github.com/TurtlzYT
 Based on CmlLib (https://github.com/CmlLib/CmlLib.Core)
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/82730163/154849329-22242e68-29c7-4068-b7c1-0e9a843919a2.png" />
-<br>
-The image is from version 0.3.5-wpf
+<img src="https://user-images.githubusercontent.com/82730163/170818956-8c32d257-dbec-42d6-bf5d-f34103eeb006.png" />
+
+The image is from version 0.3.6-uwp
 
 # Announcements & Our History 📢
 <h3>2022</h3>
