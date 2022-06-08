@@ -1,0 +1,140 @@
+<Store
+	Version="1.1.1"
+	APIVersion="0.1.1">
+	<Shaders>
+		<Shader
+			Name="Make-UP UltraFast"
+			Icon="33d"
+			BannerImage="ddd">
+			<DownloadLinks>
+				<DownloadLink
+					Url="https:\\fff"
+					SupportedVer="op1.."
+					Version="1.22" />
+				<DownloadLink
+					Url="https:\\fff"
+					SupportedVer="op1.."
+					Version="1.22" />
+				<DownloadLink
+					Url="https:\\fff"
+					SupportedVer="op1.."
+					Version="1.22" />
+			</DownloadLinks>
+			<SampleImages>
+				<SampleImage
+					Url="https:\\fff"
+					SupportedVer="op1.."
+					Version="1.22" />
+				<SampleImage
+					Url="https:\\fff"
+					SupportedVer="op1.."
+					Version="1.22" />
+				<SampleImage
+					Url="https:\\fff"
+					SupportedVer="op1.."
+					Version="1.22" />
+			</SampleImages>
+		</Shader>
+		<Shader
+			Name="Make-UP UltraFast"
+			Icon="33d"
+			BannerImage="ddd">
+			<DownloadLinks>
+				<DownloadLink
+					Url="https:\\fff"
+					SupportedVer="op1.."
+					Version="1.22" />
+				<DownloadLink
+					Url="https:\\fff"
+					SupportedVer="op1.."
+					Version="1.22" />
+				<DownloadLink
+					Url="https:\\fff"
+					SupportedVer="op1.."
+					Version="1.22" />
+			</DownloadLinks>
+			<SampleImages>
+				<SampleImage
+					Url="https:\\fff"
+					SupportedVer="op1.."
+					Version="1.22" />
+				<SampleImage
+					Url="https:\\fff"
+					SupportedVer="op1.."
+					Version="1.22" />
+				<SampleImage
+					Url="https:\\fff"
+					SupportedVer="op1.."
+					Version="1.22" />
+			</SampleImages>
+		</Shader>
+	</Shaders>
+	<Mods>
+		<Mod
+			Name="Make-UP UltraFast"
+			Icon="33d"
+			BannerImage="ddd">
+			<DownloadLinks>
+				<DownloadLink
+					Url="https:\\fff"
+					SupportedVer="op1.."
+					Version="1.22" />
+				<DownloadLink
+					Url="https:\\fff"
+					SupportedVer="op1.."
+					Version="1.22" />
+				<DownloadLink
+					Url="https:\\fff"
+					SupportedVer="op1.."
+					Version="1.22" />
+			</DownloadLinks>
+			<SampleImages>
+				<SampleImage
+					Url="https:\\fff"
+					SupportedVer="op1.."
+					Version="1.22" />
+				<SampleImage
+					Url="https:\\fff"
+					SupportedVer="op1.."
+					Version="1.22" />
+				<SampleImage
+					Url="https:\\fff"
+					SupportedVer="op1.."
+					Version="1.22" />
+			</SampleImages>
+		</Mod>
+		<Mod
+			Name="Make-UP UltraFast"
+			Icon="33d"
+			BannerImage="ddd">
+			<DownloadLinks>
+				<DownloadLink
+					Url="https:\\fff"
+					SupportedVer="op1.."
+					Version="1.22" />
+				<DownloadLink
+					Url="https:\\fff"
+					SupportedVer="op1.."
+					Version="1.22" />
+				<DownloadLink
+					Url="https:\\fff"
+					SupportedVer="op1.."
+					Version="1.22" />
+			</DownloadLinks>
+			<SampleImages>
+				<SampleImage
+					Url="https:\\fff"
+					SupportedVer="op1.."
+					Version="1.22" />
+				<SampleImage
+					Url="https:\\fff"
+					SupportedVer="op1.."
+					Version="1.22" />
+				<SampleImage
+					Url="https:\\fff"
+					SupportedVer="op1.."
+					Version="1.22" />
+			</SampleImages>
+		</Mod>
+	</Mods>
+</Store>
