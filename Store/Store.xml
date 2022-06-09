@@ -1,140 +1,94 @@
-<Store
-	Version="1.1.1"
-	APIVersion="0.1.1">
+<Store Version="1.1.1" APIVersion="0.1.2">
 	<Shaders>
-		<Shader
-			Name="Make-UP UltraFast"
-			Icon="33d"
-			BannerImage="ddd">
+		<Shader Name="Kappa Shader" Icon="https://raw.githubusercontent.com/SeaDevTeam/SDLauncher/main/Store/Shaders/Kappa/Kappa-Banner.jpg" Description="A shaderpack that aims towards a realistic, but also authentic look. So it is not plainly using physically accurate vales and equations like many other packs do. Instead, while still using many accurate calculations, it is tweaked to reproduce what you could observe in nature, which usually goes beyond just having equations to describe most phenomenons.">
 			<DownloadLinks>
-				<DownloadLink
-					Url="https:\\fff"
-					SupportedVer="op1.."
-					Version="1.22" />
-				<DownloadLink
-					Url="https:\\fff"
-					SupportedVer="op1.."
-					Version="1.22" />
-				<DownloadLink
-					Url="https:\\fff"
-					SupportedVer="op1.."
-					Version="1.22" />
+				<DownloadLink Url="https://media.forgecdn.net/files/3708/233/Kappa_v4.2.zip" SupportedVer="1.18.2, 1.17.1, 1.16.5" Version="4.2" />
+				<DownloadLink Url="https://media.forgecdn.net/files/3203/561/Kappa_v3.1_Lite.zip" SupportedVer="1.15.2, 1.14.4, 1.13.2, 1.12.2" Version="3.1 Lite" />
 			</DownloadLinks>
 			<SampleImages>
-				<SampleImage
-					Url="https:\\fff"
-					SupportedVer="op1.."
-					Version="1.22" />
-				<SampleImage
-					Url="https:\\fff"
-					SupportedVer="op1.."
-					Version="1.22" />
-				<SampleImage
-					Url="https:\\fff"
-					SupportedVer="op1.."
-					Version="1.22" />
+				<SampleImage Url="https://i0.wp.com/minecraftshader.com/wp-content/uploads/2022/01/Kappa-Shaders-Minecraft-Shaderpack-1.jpg" />
+				<SampleImage Url="https://i0.wp.com/minecraftshader.com/wp-content/uploads/2022/01/Kappa-Shaders-Minecraft-Shaderpack-2.jpg" />
+				<SampleImage Url="https://i0.wp.com/minecraftshader.com/wp-content/uploads/2022/01/Kappa-Shaders-Minecraft-Shaderpack-3.jpg" />
+				<SampleImage Url="https://i0.wp.com/minecraftshader.com/wp-content/uploads/2022/01/Kappa-Shaders-Minecraft-Shaderpack-4.jpg" />
+				<SampleImage Url="https://i0.wp.com/minecraftshader.com/wp-content/uploads/2022/01/Kappa-Shaders-Minecraft-Shaderpack-5.jpg" />
+				<SampleImage Url="https://i0.wp.com/minecraftshader.com/wp-content/uploads/2022/01/Kappa-Shaders-Minecraft-Shaderpack-6.jpg" />
+				<SampleImage Url="https://i0.wp.com/minecraftshader.com/wp-content/uploads/2022/01/Kappa-Shaders-Minecraft-Shaderpack-7.jpg" />
 			</SampleImages>
+			<Features>
+				<Feature Name="Dynamic shadows" />
+				<Feature Name="Atmospheric scattering" />
+				<Feature Name="Volumetric clouds" />
+				<Feature Name="Volumetric fog" />
+				<Feature Name="Lens flares" />
+				<Feature Name="Depth of field" />
+				<Feature Name="Motionblur" />
+				<Feature Name="global illumination" />
+				<Feature Name="bloom" />
+				<Feature Name="Temporal anti-aliasing" />
+				<Feature Name="Resource-pack support" />
+			</Features>
 		</Shader>
-		<Shader
-			Name="Make-UP UltraFast"
-			Icon="33d"
-			BannerImage="ddd">
+		<Shader Name="MakeUP-UltraFast" Icon="https://raw.githubusercontent.com/SeaDevTeam/SDLauncher/main/Store/OptiFine.gif" Description="MakeUp aims to provide the best quality / performance ratio, building a shader that can be adapted to anyone's resources. Build the shader you want! All the effects are optional!, and you will only consume the resources that you want.">
 			<DownloadLinks>
-				<DownloadLink
-					Url="https:\\fff"
-					SupportedVer="op1.."
-					Version="1.22" />
-				<DownloadLink
-					Url="https:\\fff"
-					SupportedVer="op1.."
-					Version="1.22" />
-				<DownloadLink
-					Url="https:\\fff"
-					SupportedVer="op1.."
-					Version="1.22" />
+				<DownloadLink Url="https://media.forgecdn.net/files/3817/645/MakeUp-UltraFast-8.0.zip" SupportedVer="1.18.2, 1.17.1" Version="8.0" />
+				<DownloadLink Url="https://media.forgecdn.net/files/3817/642/MakeUp-UltraFast-8.0-Legacy.zip" SupportedVer="1.16.5, 1.15.2, 1.14.4, 1.13.2, 1.12.2" Version="8.0 Legacy" />
 			</DownloadLinks>
 			<SampleImages>
-				<SampleImage
-					Url="https:\\fff"
-					SupportedVer="op1.."
-					Version="1.22" />
-				<SampleImage
-					Url="https:\\fff"
-					SupportedVer="op1.."
-					Version="1.22" />
-				<SampleImage
-					Url="https:\\fff"
-					SupportedVer="op1.."
-					Version="1.22" />
+				<SampleImage Url="https://i0.wp.com/minecraftshader.com/wp-content/uploads/2022/01/MakeUp-Ultra-Fast-Shaders-minecraft-shader-pack-1.jpg" />
+				<SampleImage Url="https://i0.wp.com/minecraftshader.com/wp-content/uploads/2022/01/MakeUp-Ultra-Fast-Shaders-minecraft-shader-pack-2.jpg" />
+				<SampleImage Url="https://i0.wp.com/minecraftshader.com/wp-content/uploads/2022/01/MakeUp-Ultra-Fast-Shaders-minecraft-shader-pack-3.jpg" />
+				<SampleImage Url="https://i0.wp.com/minecraftshader.com/wp-content/uploads/2022/01/MakeUp-Ultra-Fast-Shaders-minecraft-shader-pack-4.jpg" />
+				<SampleImage Url="https://i0.wp.com/minecraftshader.com/wp-content/uploads/2022/01/MakeUp-Ultra-Fast-Shaders-minecraft-shader-pack-5.jpg" />
+				<SampleImage Url="https://i0.wp.com/minecraftshader.com/wp-content/uploads/2022/01/MakeUp-Ultra-Fast-Shaders-minecraft-shader-pack-6.jpg" />
+				<SampleImage Url="https://i0.wp.com/minecraftshader.com/wp-content/uploads/2022/01/MakeUp-Ultra-Fast-Shaders-minecraft-shader-pack-7.jpg" />
 			</SampleImages>
+			<Features>
+				<Feature Name="Shadows" />
+				<Feature Name="Depth of field" />
+				<Feature Name="Temporary anti-aliasing" />
+				<Feature Name="Improved ambient occlusion" />
+				<Feature Name="Chromatic aberration" />
+				<Feature Name="Motion blur" />
+				<Feature Name="Volumetric clouds" />
+				<Feature Name="Volumetric light" />
+				<Feature Name="Reflexes" />
+				<Feature Name="Waving plants" />
+				<Feature Name="Color schemes" />
+			</Features>
 		</Shader>
 	</Shaders>
 	<Mods>
-		<Mod
-			Name="Make-UP UltraFast"
-			Icon="33d"
-			BannerImage="ddd">
+		<Mod Name="Make-UP UltraFast" Icon="33d" Description="ddd">
 			<DownloadLinks>
-				<DownloadLink
-					Url="https:\\fff"
-					SupportedVer="op1.."
-					Version="1.22" />
-				<DownloadLink
-					Url="https:\\fff"
-					SupportedVer="op1.."
-					Version="1.22" />
-				<DownloadLink
-					Url="https:\\fff"
-					SupportedVer="op1.."
-					Version="1.22" />
+				<DownloadLink Url="https:\\fff" SupportedVer="op1.." Version="1.22" />
+				<DownloadLink Url="https:\\fff" SupportedVer="op1.." Version="1.22" />
+				<DownloadLink Url="https:\\fff" SupportedVer="op1.." Version="1.22" />
 			</DownloadLinks>
 			<SampleImages>
-				<SampleImage
-					Url="https:\\fff"
-					SupportedVer="op1.."
-					Version="1.22" />
-				<SampleImage
-					Url="https:\\fff"
-					SupportedVer="op1.."
-					Version="1.22" />
-				<SampleImage
-					Url="https:\\fff"
-					SupportedVer="op1.."
-					Version="1.22" />
+				<SampleImage Url="https:\\fff" />
+				<SampleImage Url="https:\\fff" />
 			</SampleImages>
+			<Features>
+				<Feature Name="" />
+				<Feature Name="" />
+				<Feature Name="" />
+			</Features>
 		</Mod>
-		<Mod
-			Name="Make-UP UltraFast"
-			Icon="33d"
-			BannerImage="ddd">
+		<Mod Name="Make-UP UltraFast" Icon="33d" Description="ddd">
 			<DownloadLinks>
-				<DownloadLink
-					Url="https:\\fff"
-					SupportedVer="op1.."
-					Version="1.22" />
-				<DownloadLink
-					Url="https:\\fff"
-					SupportedVer="op1.."
-					Version="1.22" />
-				<DownloadLink
-					Url="https:\\fff"
-					SupportedVer="op1.."
-					Version="1.22" />
+				<DownloadLink Url="https:\\fff" SupportedVer="op1.." Version="1.22" />
+				<DownloadLink Url="https:\\fff" SupportedVer="op1.." Version="1.22" />
+				<DownloadLink Url="https:\\fff" SupportedVer="op1.." Version="1.22" />
 			</DownloadLinks>
 			<SampleImages>
-				<SampleImage
-					Url="https:\\fff"
-					SupportedVer="op1.."
-					Version="1.22" />
-				<SampleImage
-					Url="https:\\fff"
-					SupportedVer="op1.."
-					Version="1.22" />
-				<SampleImage
-					Url="https:\\fff"
-					SupportedVer="op1.."
-					Version="1.22" />
+				<SampleImage Url="https:\\fff" />
+				<SampleImage Url="https:\\fff" />
 			</SampleImages>
+			<Features>
+				<Feature Name="" />
+				<Feature Name="" />
+				<Feature Name="" />
+			</Features>
 		</Mod>
 	</Mods>
 </Store>
