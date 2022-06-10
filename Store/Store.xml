@@ -28,6 +28,21 @@
 				<Feature Name="Resource-pack support" />
 			</Features>
 		</Shader>
+        <Shader Name="Bruh" Icon="https://cdn.pixabay.com/photo/2013/07/12/17/47/test-pattern-152459_960_720.png" Description="test des">
+			<Features>
+				<Feature Name="Dynamic shadows" />
+				<Feature Name="Atmospheric scattering" />
+				<Feature Name="Volumetric clouds" />
+				<Feature Name="Volumetric fog" />
+				<Feature Name="Lens flares" />
+				<Feature Name="Depth of field" />
+				<Feature Name="Motionblur" />
+				<Feature Name="global illumination" />
+				<Feature Name="bloom" />
+				<Feature Name="Temporal anti-aliasing" />
+				<Feature Name="Resource-pack support" />
+			</Features>
+        </Shader>
 		<Shader Name="MakeUP-UltraFast" Icon="https://raw.githubusercontent.com/SeaDevTeam/SDLauncher/main/Store/OptiFine.gif" Description="MakeUp aims to provide the best quality / performance ratio, building a shader that can be adapted to anyone's resources. Build the shader you want! All the effects are optional!, and you will only consume the resources that you want.">
 			<DownloadLinks>
 				<DownloadLink Url="https://media.forgecdn.net/files/3817/645/MakeUp-UltraFast-8.0.zip" SupportedVer="1.18.2, 1.17.1" Version="8.0" />
