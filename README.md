@@ -31,8 +31,9 @@ The image is from version 0.3.6-uwp
 - [x] Download/Install Minecraft any versions including snapshots
 - [x] Launch Minecraft
 - [ ] Forge (trying to make)
-- [ ] Fabric (developing)
+- [x] Fabric
 - [x] Optifine
+- [x] SD Store
 
 <h3> WPF version</h3>
 
