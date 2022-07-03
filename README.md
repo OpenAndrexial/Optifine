@@ -16,6 +16,7 @@ The image is from version 0.3.6-uwp
 <li>(February) We changed our luancher name to SDLauncher from Emerald Launcher but in some versions name may be still the same.</li>
 <li>(April) We sarted moving to uwp with a new look an new features</li>
 <li>(May 24) We released UWP version that is ready to use (0.3.1) with some bugs. </li>
+<li>(June 23) We released SDStore. </li>
 
 
 # Features
