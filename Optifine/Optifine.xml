@@ -1,5 +1,5 @@
 <OptifineManager APIVersion="0.1" Version="0.1" LibraryUrl="Optifine.zip">
-	<Optifine VersionName="1.19.HDU.H8" BasedOn="1.19" DownloadUrl="https://raw.githubusercontent.com/SeaDevTeam/SDLauncher/main/Optifine/versions/Optifine-1.19.zip"/>
+	<Optifine VersionName="1.19.HDU.H8" BasedOn="1.19" InstallerUrl="https://raw.githubusercontent.com/SeaDevTeam/SDLauncher/main/Optifine/Libraries/OptiFine-1.19_HD_U_H8_pre1.jar" DownloadUrl="https://raw.githubusercontent.com/SeaDevTeam/SDLauncher/main/Optifine/versions/Optifine-1.19.zip"/>
 	<Optifine VersionName="1.18.HDU.H3" BasedOn="1.18" DownloadUrl="https://raw.githubusercontent.com/SeaDevTeam/SDLauncher/main/Optifine/versions/Optifine-1.18.zip"/>
 	<Optifine VersionName="1.18.1.HDU.H6" BasedOn="1.18.1" DownloadUrl="https://raw.githubusercontent.com/SeaDevTeam/SDLauncher/main/Optifine/versions/Optifine-1.18.1.zip"/>
 	<Optifine VersionName="1.18.2.HDU.H7" BasedOn="1.18.2" DownloadUrl="https://raw.githubusercontent.com/SeaDevTeam/SDLauncher/main/Optifine/versions/Optifine-1.18.2.zip"/>
