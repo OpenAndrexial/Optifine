@@ -1,6 +1,3 @@
 <OptifineManager APIVersion="0.1" Version="0.1" LibraryUrl="Optifine.zip">
-	<Optifine VersionName="1.17.1.SomethingHud" BadedOn="1.17.1" DonwloadUrl="SomewhereVersion.zip"/>
-	<Optifine VersionName="1.16.1.SomethingHud" BadedOn="1.16.1" DonwloadUrl="SomewhereVersion.zip"/>
-	<Optifine VersionName="1.13.1.SomethingHud" BadedOn="1.13.1" DonwloadUrl="SomewhereVersion.zip"/>
-	<Optifine VersionName="1.12.1.SomethingHud" BadedOn="1.12.1" DonwloadUrl="SomewhereVersion.zip"/>
+	<Optifine VersionName="1.19.HDUH8" BasedOn="1.17.1" DonwloadUrl="https://github.com/SeaDevTeam/SDLauncher/raw/main/Optifine/Versions/Optifine%201.19.zip"/>
 </OptifineManager>
