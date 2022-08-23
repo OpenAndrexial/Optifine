@@ -1,7 +1,11 @@
 # SeaDev Launcher
 An open-source custom noob wpf or uwp(still in dev) Minecraft Launcher for Windows 11,10 written with C#!
 
-<br>
+![size](https://img.shields.io/github/repo-size/SeaDevTeam/SDLauncher-UWP?color=%23cc0000&label=Repo%20Size)
+![stars](https://img.shields.io/github/stars/SeaDevTeam/SDLauncher-UWP?color=%23eeab00&label=Stars)
+![downloads](https://img.shields.io/github/downloads/SeaDevTeam/SDLauncher/total?label=Downloads)
+![latest](https://img.shields.io/github/v/release/SeaDevTeam/SDLauncher-UWP?label=Latest%20Stable)
+
 The idea of the creation by https://github.com/TurtlzYT
 <br>
 Based on CmlLib (https://github.com/CmlLib/CmlLib.Core)
